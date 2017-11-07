@@ -13,6 +13,6 @@
 ### 扔物线 Github 微信公众号
 [Github 个人地址](https://github.com/hencoder)
 
-微信公众号二维码＜/br＞
+微信公众号二维码
 
 ![](imgs/qrcode.bmp)
