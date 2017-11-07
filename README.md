@@ -7,5 +7,9 @@
 ### 我的 Github CSDN
 [CSDN个人地址](http://blog.csdn.net/wooder111)
 [测试个人博客](http://www.513951.com)
+
+
 ### 扔物线 Github 微信公众号
 [Github 个人地址](https://github.com/hencoder)
+微信公众号二维码
+![](imgs/qrcode.bmp)
